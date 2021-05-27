@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 @font-face {
     font-family: "Cream";
-    src: url("../fonts/CreamCake.ttf") format("truetype");
+    src: url("CreamCake.ttf") format("truetype");
 }
 @font-face {
     font-family: "You";
-    src: url("../fonts/BigDeal.ttf") format("truetype");
+    src: url("BigDeal.ttf") format("truetype");
 }
 html{
     scroll-behavior: smooth;
